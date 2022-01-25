@@ -1,11 +1,2 @@
-SSSD javított dancing lamp beadandó
-project zipben node modulokkal
+Simple websocket server with dancing animation
 
-Egyébként
-
-npm i ws
-npm i fs
-
-node frame_server.js
-
-és client.html-en látszik.
